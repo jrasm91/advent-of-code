@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "advent": "tsc && cd 2024/day9 && node ../../dist/day9/index.js"
   },
   "author": "",
   "license": "ISC",
